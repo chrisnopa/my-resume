@@ -1,19 +1,39 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Liceo Frances de San Salvador
+# Liceo Frances
+- company: <a href="http://lfelsalvador.org/fr/" target="_blank">Liceo Frances de San Salvador </a>
   position: Teacher in History and Economics
   duration: Aug, 2017 &mdash; Present
-  # summary:  ing a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  # summary:  ing a couple bullet points  <ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
+#le wagon
+- company: Le Wagon (Paris, France)
+  position: Full Stack web developer student
+  duration: Apr, 2017 &mdash; Jun, 2017
+  summary: <b>Ranked 1st Full-Stack Web Development bootcamp in the world - SwitchUp (2017)</b>
+          <ul>
+            <li>Learned Ruby on Rails, Node.js, and best practices for a tested and readable code with Javascript, HTML, CSS</li>
+            <li>Worked within teams and collaborated with Git and GitHub</li>
+            <li>Deployed applications through Heroku and consumed Google Maps and GlobalFetch APIs</li>
+            <li>Designed, implemented, and shipped in production a prototype of cosilver.fr, a marketplace that makes it easy for senior people to rent a house/flat with other seniors</li>
+          </ul>
+
+# Numeric projects Manager
+- company:  <a href="www.cnrs.fr" target="_blank">CNRS</a>
+  position: Numeric projects Manager
+  duration:  Jan, 2016 &mdash; Dec, 2016
   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# BSF Campus Manager
+- company:  <a href="https://www.librarieswithoutborders.org/" target="_blank">Libraries Without Borders</a>
+  position: BSF CAMPUS Manager
+  duration:   2015  &mdash; 2016
+  summary: <ul>
+            <li>Creation of the information architecture of the <a href="http://formation.bsfcampus.org/" target="_blank">BSF Campus platform</a> </li>
+            <li>Management of content's production (videos, exercises) on the platform</li>
+            <li>Supervision of the upload of content on both platform and Youtube channel</li>
+            <li>Creation of graphic elements for the project (generic) and capitalization
+          theory for community management and the creation of future BSF Mooc's</li>
+          </ul>
+
+#

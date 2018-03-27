@@ -2,15 +2,18 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: donutfinder.io
+- project: cosilver.fr
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2017 &mdash; 2017
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
-
+  description: With 3 friends, we created an MVC of cosilver.fr. cosilver allows senior people to rent houses/flats with other seniors and share time and fun! For more infos, you can see the repo <a href="https://github.com/chrisnopa/cosilver" target="_blank">here</a>
+    <ul>
+      <li>Ruby on Rails, SCSS/CSS, HTML5, JavaScript, JQuery, AJAX, Bootstrap, stripe, Heroku</li>
+    </ul>
 #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+# - project: Springfield Donut Eater's User Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+
