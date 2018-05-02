@@ -1,15 +1,15 @@
 # Skills
 # Donut design
 - skill: Coding
-  description: Knowledgeable in Ruby on Rails, HTML/CSS, and Javascript. Currently learning React.js.
+  description: Knowledgeable in Ruby on Rails, HTML/CSS, Javascript, Git/Github and Heroku for deployment. Currently self-learning React.js and Vue.js.
 
 # Craft beer brewing
-- skill: Project management
+- skill: Project management // Agile methodology // Scrum
   description: Acquired  consulting skills working as a project manager. My goal was to understand and challenge the clients' needs, suggest solutions, and develop the final product that would help him prioritize its assets. More infos on my Linkedin account.
 
 # Family leadership
 - skill: Communication
-  description: Fluent in English and getting better and better in Spanish, that I practice on a daily basis. French is my native language. I also studied Arabic for two years during my University studies.
+  description: Fluent in English and getting better in Spanish, that I practice on a daily basis. French is my native language. I also studied Arabic for two years during my University studies.
 
 # UX Design
 - skill: UX design
