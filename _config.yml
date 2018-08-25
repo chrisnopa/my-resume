@@ -16,7 +16,8 @@ resume_contact_email:           "panon_chr@hotmail.com"
 resume_contact_telephone:       "00503 76 23 38 10"
 resume_contact_address:         "12 rue du Saindo, 56450 Theix"
 # resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>Experienced in Ruby on Rails, HTML, CSS and Javascript. Currently abroad training my Spanish and living a teacher experience. Eager to continue developing my skills in programming and UX as a junior fullstack web developer.</p>"
+resume_header_intro: "<p>Experienced in Ruby on Rails, HTML, CSS and Javascript. Currently abroad training my Spanish and living a teacher experience. Eager to continue developing my skills in programming and UX as a junior fullstack web developer.</p>
+<p>My personal Portfolio <a href="www.chrisnopa.me">here</a></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
